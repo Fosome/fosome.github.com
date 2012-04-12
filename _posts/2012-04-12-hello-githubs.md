@@ -2,7 +2,7 @@
 layout: post
 title: "Hello Githubs"
 description: ""
-category: 
-tags: []
+category:
+tags: [github]
 ---
 {% include JB/setup %}
